@@ -14,7 +14,7 @@ The text is wrapped in (p)</expected>
         <actual>Actual Result: The text on the page "Compliance and Legals" is in bold and underlined when switching to AR
 The text is wrapped in (u) and (strong)</actual>
                 
-        <license>License:  ALL</license>
+        <license>License: ALL</license>
                 
         <role>Role (unregistered, unauthorized, authorized, All): ALL</role> 
 </INFO> 
